@@ -1,3 +1,7 @@
+library(data.table)
+library(stringr)
+library(stringi)
+library(plyr)
 
 
 for(i in list.files('./data')){
